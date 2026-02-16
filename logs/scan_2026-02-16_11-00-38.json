@@ -1,0 +1,521 @@
+{
+  "ran_at": "2026-02-16T16:00:38.072221+00:00",
+  "result": false,
+  "confidence": 0.0,
+  "reason": "No credible signals (2 weak hits)",
+  "total_scanned": 582,
+  "total_recent": 51,
+  "total_with_signal": 2,
+  "articles": [
+    {
+      "title": "Trump told Netanyahu he would support Israeli missile strikes on Iran - RBC-Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVFZbEpsaDFobThGVG1JNjFEd3pscExuWjZCV3BfbXI4RFVLbWswV2lmRVZ4RURzMV9XWU5Yc0p6dW1ZdGxwQ3E2bDM2MzJUVEI0RGNOSEoyM1NrLWJqQV94TGQ4ZWxyMGtyZk9YMEFueWhnVTJPWWZXODc4bnNkR2s4cnFhbEpIN1AtNko5elBwWkR3SVBKdQ?oc=5",
+      "published": "Mon, 16 Feb 2026 02:50:00 GMT",
+      "source": "rbc-ukraine",
+      "positive_score": 1,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 1.0
+    },
+    {
+      "title": "CBS News: Trump tells Netanyahu he will support Israel missile strikes against Iran - Armenia News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iYmc2Q0toYUFzbVI4SUtGVFBpaXAwSFZtNWdMZ2NfNERUUVBkOUcyaDBaWEJ1dkNTaGYteTdVTk5GMGFPN2x5Zk9UX0g?oc=5",
+      "published": "Mon, 16 Feb 2026 07:19:54 GMT",
+      "source": "armenia news",
+      "positive_score": 1,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 1.0
+    },
+    {
+      "title": "Trump told Netanyahu he\u2019d back Israeli strikes on Iran if talks fail \u2013 report - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1FSQ1BReVpubzRiQTVYY21XZVN4VmVmbk5JNzRWWHdWbmxKb3RXVFJ2OFdzQ051cmdWZDNVQk9NV1ZHQVNfcTdCeEtOcVIwNDFmZC1iRnliS25jU2hzazhmQXN1OHp2aDBVUDJPMWFrYUVZV1hvaWZINkViLUFLVlRGSGJCdDFROFVSZktwZzJMVXhXcWRJMmIycWlEUVNzdmZCYUJNUWrSAa4BQVVfeXFMTXlNbXdJNktTbFBIdFo4bDNOZ2xHRjdfd3NqSVNXT253eFJQUTdmQVEweDB2VFhGbkxibGpVSmhEVWRCaThWOVZWakd3N1puX3ZmMF95elZ4azFOR0JMSko2NWFqc1lGMkRDaHhnbjI0R1diLVBoSjBNUk8xeFREYjNaR184cl92QllQSWxnMGxyNkpGeDRtMzdqUU11bVJ2dUZCZ09oN21RRDEyNzhn?oc=5",
+      "published": "Sun, 15 Feb 2026 21:13:00 GMT",
+      "source": "the times of israel",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": true,
+      "net_score": 0.0
+    },
+    {
+      "title": "Trump told Netanyahu he would support Israeli strikes on Iran's ballistic missile program, sources say - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeXkzekU5aHNrdG9SZno4QWpJWG9hOGpwSWN0eEV3dElOa1RMT1BnNDF2T0dFbTV3Mlh3b1ZfVDBoTmVyZERGODNEZjVZLWpvbElQcXlueHhoWFg1TUFwb0wtcm9kQ2RucjhwYWhENmVZa3RXMGlDa3FkUzN3NV96cU5jVlBDOFFtSjJhOGNn0gGTAUFVX3lxTE13eElPNTRUVmVmaF84TE8xNlMtak5ZeWpLbWR5V3lxQVAzZU0zNXg1UHZIb3ViYTlqVEJ6MUF6Tld5NGhsWVlKQkxudk9MUk9ZanF6QjFvaXFIcVhCMW14bG5pLXYwRUZSYlR4Ymh6WTlwZ2d5WGx0MUFucUlLNld5dkI3bjJiYzlWa0xRN1VLV3UtNA?oc=5",
+      "published": "Sun, 15 Feb 2026 17:13:00 GMT",
+      "source": "cbs news",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": true,
+      "net_score": 0.0
+    },
+    {
+      "title": "Taliban warns it may aid Iran if conflict with US erupts - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJb2pBYm9zRTB0VVpwWUtNWDZDT3puOFZUZUJ3ZDEwYmxjcFkzQTd1YmFsVThQMHMyNWVGeEMtRlVKQ1VrTEpraWYtZFZ3Y0pFSEloSi1tUWRiYnRnQm5MT0J0SjBHNW5sNEE?oc=5",
+      "published": "Mon, 16 Feb 2026 00:39:55 GMT",
+      "source": "the jerusalem post",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "\u2018No submission before threats,\u2019 Iran\u2019s FM says ahead of Geneva talks - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyanZZOHh2cDBDTWl5Y1ppOUY2R3c2aV9CN2UyOFJtX3RDX0J0N0U0cC1MUFpfOEtJVWNmN2NXZGlHdTdUOThwM01mWm1LeEJVRGFQSGZscjY1SFpKLUE?oc=5",
+      "published": "Mon, 16 Feb 2026 15:11:22 GMT",
+      "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Netanyahu calls for dismantling Iran\u2019s nuclear programme in any US deal - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWjNrRlUtWEhQRE5NQVZ0WU5PZTdlekFLSVlSMU10MWdqWnc2SEVGMWRORTQwVlF0Ykx2VXVUbXo3NzlmVlNUZGh2dTNlek1qNTVFTU0zWEZYY3lNbzdrVEU5b0dBd0E2a1piWTA3dE5NSU4tMWhNdmVxMWFJYWtYRXNCcC1TV0s4X1JhTHdhQy1Lb2trTFdYTXdOOTNRczNqdmVpSUdkejlTUE5zRk14YtIBtgFBVV95cUxPd1JPei12UVlod21XWnhpNFVzdjBtWjk2WHNYSlMwUnFHYUVoRVZ6eFRKVGNJLThhZU1xTnpqODR5MEFBVDM0R1V6VFB5TVg4cjdYVFMyblpPY24xWkVoZ244enVJNmExbXRoa0RRUDlMRlpCMXNER3kwNDI4bU5VcTRyQTNIdFRSNmZ6Mlk4RzFvdUVKVlhXSjlJQ1ZkUzU4c3hYV3NtdHEyaXNWWE1BeEFvQlV1Zw?oc=5",
+      "published": "Mon, 16 Feb 2026 04:32:00 GMT",
+      "source": "al jazeera",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": true,
+      "net_score": 0.0
+    },
+    {
+      "title": "US and Iran to resume nuclear talks as Israel presses strike option - Straight Arrow News - SAN",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVdGT0QzeC1GdjRSdGNaa2xUWGhYdUVlNHk0RHU4ZXBqWjJUNENNTUtxX1V1U1dnM050RDRqeFRpS1IySGU1NlhvTTlpQUhXN05aV2d4eWRYZkF0el85UC1Nc29sdDV6MEV5YnkyaDBweGhmczhtUGQ4cUpFODNWN0tyc0ZKamg2Z3lBQVQtMzI?oc=5",
+      "published": "Mon, 16 Feb 2026 11:39:06 GMT",
+      "source": "straight arrow news - san",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Reuters: U.S. Military Preparing for Possible Strikes on Iran If Trump Orders Attack - Democracy Now!",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXFRakJBcnFHTGlNZmwyZFRHQmxlSnU0aEdxS2ZwMU45TjFvWXcwRDZQNlB6clhKWnJMUlNIYmYxRGlMTG0yYkQ2aUdoQmkxc0dMSkNDTVVoZXRDVjJUOV90TlgzMVBYM2lvTW5UMlBjQ0wtSjJxVEhmQVNxcWlaRWF5QUZCaERyaWVPT3hTOTFFanNrNF80RllZVkdkdkdYMjJGM2xSSXFPclZtaUlfNVFLSk5kZVAtLW9SYlRyaHhzS21fRjE1OHBR?oc=5",
+      "published": "Mon, 16 Feb 2026 15:20:46 GMT",
+      "source": "democracy now!",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Donald Trump to support strikes on Iran if no deal reached - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JYXBHdDFUZEoxOC04SzlXTU1aMkk5dzhPckxnNldmaGdSTVJRS3R0SEVkOHpya21mUVBGTEpBZS1KaDAtQ2pjSlFRaFVKcTJSWjVOaDVNLUV4V0hYSjBv?oc=5",
+      "published": "Sun, 15 Feb 2026 21:01:38 GMT",
+      "source": "the jerusalem post",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Trump told Netanyahu in December he would support Israeli strikes on Iran's missile program, CBS News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUEJ0RGFTUmVaNVdHbEtQckg3eklDWXB6NUdXSXMxNDUxZlREU19MWlJyVU9qeEZFX3NaLXpNblM1V0VKNEQ1X3M0R2dXMGVUbm02QXh3RzBndGF3bkxqQmpWVzF5QzQ5XzBoMi1wVEhaRW52ak9uU2NJX3pXTmVEYy14QjMyd2xDVkJER3UxZHZobm1DeW9GOENFcnU1a0JwcEQ1akRDZXd0ZVFLdk90UmRLUThhMUNxcnViMUZmTnI0QXo0QW9yc0RR?oc=5",
+      "published": "Sun, 15 Feb 2026 17:35:01 GMT",
+      "source": "reuters",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": true,
+      "net_score": 0.0
+    },
+    {
+      "title": "Satellite image confirms US aircraft carrier 150 miles off Oman as pressure builds on Iran - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96N2VyNzViU0JVT3c2cEJNR0NPUkw5cGZ4c0VsbjQwNUxLQmpoX0VFLXJBTHA1YjFKalMzQXplcTdobENwNlJQSWstQkF5MVRmQmxYRQ?oc=5",
+      "published": "Mon, 16 Feb 2026 15:41:41 GMT",
+      "source": "bbc",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": true,
+      "net_score": 0.0
+    },
+    {
+      "title": "Iran's Revolutionary Guards launch Strait of Hormuz drills - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KcHhqNmRVdVJtdTFENGk5SHY1SllWdnFwODFCbHhLVUp0eW5Ja3IydWhBVjBTUFIxTEhHQ1VBbDdqQmRFeEVnbVN1ZC1VX3VYX1IwVHduNmNwelVpaEwzaVdYemJDal9SbnJiOGNXQS13WC1WWVcwWG9R0gF6QVVfeXFMTkZuNXdhZHlpQkNZbG5mUEpEZThUaGt3U0FrX0NXcTlvUTNORFZyYWtWOVNNT0JlVUstWW9SeWtveU1KekcxSS1PQk9NUEE4dm5fSnMzUE1qZTBzYUdrNm9DVDVUOHVwSkZ4cUFKM1c0Y20zcndFdXp3c0E?oc=5",
+      "published": "Mon, 16 Feb 2026 12:47:16 GMT",
+      "source": "dw.com",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "US-Iran talks to begin in Geneva on Tuesday, amid strike threats - The New Arab",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanVnc2Q0UklKTHB5a2lPc0I2djhzS0tSVDg2cVlLYndPclYtS05qUzNYcDJPSm9hRG9PZUdOQnVlSklqS1MwdHRKX3R1RjB2SGpBUzlrOEoxbkFwS0YtXzdISXg3akJNUEM2NGZ1dmV3eWttQW5UNVZaTXZXd0EySEd2QlhKMTRFb3Zv0gGQAUFVX3lxTE1MNElhMmhVVEM0RTRvYTBMbHNiODJHbXRmdGxCekFZdWNsSk8tWWs0TDk5Sm5qNkhYRmktUjRUSnZfM280Zkh4WlhrWUZwU1dGY1diNC1NMG80bVVuV0NEbFp4dERjQW9oWFRJRUN5cmNGbTBMY2NibFRRR1dzY1RKcWtLQkkyTnd6d2ZvWUxyRA?oc=5",
+      "published": "Mon, 16 Feb 2026 12:14:37 GMT",
+      "source": "the new arab",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Trump pledges support for Israeli strikes on Iran if nuclear talks fail - T\u00fcrkiye Today",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGxQSmNwOWsxZjU0akxIck5yQjA4Ukl2LVI2ekhPWHY1cjNnZzB1UGE2ZzM0bVhfLWpNMDA5T2JpMWg5ZXNNSy0yc2tnRGFyZW9UeGttM3JINUpzV0NoMFlRTDdPMXhjRE1JSHV5Q0t4WVNCdHA0RmRxWlEyNldpTEdCTTE1Y09aWnVZYmdRTjcta0FhWEp3R21iZ00wWVNLU0pLMlBoTVpjckhCcGp1NGVOUmZrUQ?oc=5",
+      "published": "Mon, 16 Feb 2026 07:06:08 GMT",
+      "source": "t\u00fcrkiye today",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Report: Trump told Netanyahu he would back Israeli strike if Iran doesn\u2019t make deal - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmdlalo3RkJDN3p2Ulk0RE5Sdll4R1pHMVFtV2VoVEhBQ25kOE1jSldHcjUwbWVveHdCWjVyQWUwZk5PMkdVekhMYnY0NWY5MUhGaVJZSm14T3N4Rk0tYzdzWG1sb2ktUE1ORU1OMTE1QmloM0NPdkxMbzZDaHljMTZBMmVnMjlVQmhOZ3BUakl3UVFoSTRRSko2SGlSaXpUOE1sSGNoUF83NEFaVGttcGNrNG0tUVB2S25MSjB2dnVSbkM3RFE?oc=5",
+      "published": "Sun, 15 Feb 2026 19:46:52 GMT",
+      "source": "the times of israel",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": true,
+      "net_score": 0.0
+    },
+    {
+      "title": "CBS: US Ready to support possible Israeli Strikes on Iran - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzJfUmtPaUZiQkRzVHR1YXVYcnBTUWJsWl9pQnRyMGZsME1BNWdpdWxab2xyYzMtRWg1MnFWQlViTnh3NjM0UHdJOVhNVUJoVHJJY2NwdkdiNk90MkJXb1ZFMmFPUUdCa1BYdG1ZMlZiTldFNnc1cm5JR2ZfUVFST3lEbw?oc=5",
+      "published": "Mon, 16 Feb 2026 01:03:22 GMT",
+      "source": "latest news from azerbaijan",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Trump told Netanyahu he would support strikes on Iran missiles, sources say - KTSA",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGtrdmtUUUl1N0NEXzZiT3lBejRMQ0RIaHhJU3RWd1ViTXdqdTNySUFEZHh1SlY4UFljblcwQlQ3R3hCSnlpcm1DbWZsUzRhY2JEZEIyZDJyT1RFclBaYVRsM29WRmFtZkk5bkdaaktvZVZ2ZGFHVzVNcHYzTTNsZUZWY2RmUEFiS09pVUNjZVBnY0szb244R1RJNW0?oc=5",
+      "published": "Sun, 15 Feb 2026 20:58:00 GMT",
+      "source": "ktsa",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "US to back Israeli strikes on Iran? What Trump told Netanyahu if deal fails - WION",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORVJSV1YyVGQydkp2OVd6dHJ1cFJPbUdyVUlEYlR4eDhWeDhQM29LZGF5SmowN1RLVmNtUUtjMUtxa25yaEZEU0NZNnhWMmFqRWxBZGpIekhGTTNJZy1oZUNmU1dWbnRCczV2QUtUUnVLWU5jMmFMRk5mLXRxY0dwV3lsTXRQdHFhNTIwTE5kVGRBSUZybUhzUjUtbzk5TkxaNnJUVzFqTGlSQ0djdDZZZjlTUUZjV1VrN3fSAb8BQVVfeXFMTmh6UkRONTMxM0REOGUwaVhSeXdONzNlb0VPSjlUM3diQkFjSlY3aElYOTNuWXltZ2ZQQ3hpTV9WZURKajJHT1ZRT2t0dVpSQ3VkLU5OR2d5S2ZzVlVFNURZWEJHVDk0ZWZxQTFqbkIzVHdNR1NiLVo3a1ctaDE1WGJSbDN6d0lENk04NThrOURnS1pDeUt3MGxVZGhGOS1OUFBsSHlyMVc1LUdKSEdnM3NYaktIQnQtT01IMWtCZkU?oc=5",
+      "published": "Mon, 16 Feb 2026 03:48:00 GMT",
+      "source": "wion",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "^GSPC Today, February 16: US\u2013Israel Iran Strike Talk Spurs Risk-Off - Meyka",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeW9DUEp5eW1zSUpoUUp5ZzNJVXRHUEl2Ujc0VGdnWnhzdWxhUk95c3BYbXZ6OUE1X1RCWndTWjhHX0YxWUl6b0FKMGMwMjMtYVZnQnBEUEVwRHdjR1RBRDRLUlhiLXhNcWcwQ2lrUmliTEFWUnNobWc3QzZJbWNQaWltQWt2WGNmRWV4WEJ3WnNUSnZvQXZR?oc=5",
+      "published": "Mon, 16 Feb 2026 11:53:32 GMT",
+      "source": "meyka",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Trump pledged US support for Israeli strikes on Iran if talks fail, report says - Yeni \u015eafak",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSFNaUVQtYUw5SzJVblZIYjZSeFVqWHk0UE1tZkladXBsX05HMVFQV0tWalVXYTRUS2dqdHdncXNZUHdIQVpNNmpVZm1uMmRnS3ZTakM4UDlqYkJsRWhWdkY5QWNjUTM5SEhxWE8zZ2s1cVlFV01GdWprR2VoUVc4RWpYY0lSeG5PczVqSU13blZFcHNBUXV2UzlzQTJFZ0Z6d3pTQ1ZOOGs3R29FTnNqY1JRdTl1RWdO?oc=5",
+      "published": "Sun, 15 Feb 2026 22:39:26 GMT",
+      "source": "yeni \u015fafak",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "US would back Israeli attacks on Iran if talks fail, Trump told Netanyahu: Report | Daily Sabah - Daily Sabah",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFJzSVM3RXdkWUU0MTdBRFd1cThPVEc3czBHdWFsVFpadmhUb0hwNnB4WGRGSjJ0VllmUUg4eC1zQ3A4VG16YzdUZk9HT0pxSkJLWGs2OUM3aVljWmc3WlhmaWU1RnpwbGhIY1lYY1dERGtCZFF5R0pYWUFIMEZvZmFrQnBmb3RvYVp5WFdJV0ZYU1NURWQtREFfamtpQkQ3Z2loTGVHVTdXVDBfRF9GaXZDLVFIYXJlQVVHYktR0gHDAUFVX3lxTFBjWTdkcG1kcW1SdmxRR0RZeU9lNko3MVU1X2RocWxOT2l6VkQxS25UWGo1dWI4aW1BU2kwNVByYU5qT09fOEJBN0FpcDl1eV91U3hLTWhqc0xoMU5oamRUUUdKZkpWMVM5aDVudHhoaGEwSTV1NGZfVDhLNXQ3amtpMlpfZDR4NFRDQXNBZnZXZkR4SzNNSGRobXhNT0FrUGtSOHA5ZThqNktPWlZUdkk3VkFKYWtRaHNLMXVWT01uLUNWcw?oc=5",
+      "published": "Sun, 15 Feb 2026 20:29:00 GMT",
+      "source": "daily sabah",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "US Air Force to replenish bunker-buster bombs used in Iran strikes - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGZLZ1NKNjBoT3VUMXFtSFB6RmhMeU5KcmlFTnlacmd3WFRDR3NnUTBvUktBNWROSVE4eWN5S1pHQnZtX3E1MXJBOGlIRmRZaTVYNmk0WlZXZ0N2VlhyQU1NTGRfUWJ3U2pfc3dENlpnR0lkazRnd0lvYjVNbjc1czV6SFBGV3ZZb21GNUtZdzVJbDg?oc=5",
+      "published": "Mon, 16 Feb 2026 13:45:00 GMT",
+      "source": "interesting engineering",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Trump would back Israeli strikes on Iran's missile program if U.S.-Iran talks fail - news.cgtn.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdWdSa1BFd0tSLUpmdG5FYTVXZ1hyM0ltNGJLWW12SlU1eUN2MUxRWHRIbWZQeXBCbGNNX0JDYjJyR3VaN0tOdnYzekdiWGJvS0h1VHRzMFRmWm5ia1JoRXhYRFVrWllPN1h6YzVnMGtDeDNBdzFUd1h4bmhQVk1adi1vR2RjdVRlcGhmMV83VmlMYTgtQUxxczVBNHVoZkM0NTVlTzgtQWVGbUdfbDY1WGtfVlhWbUpMNFVub2VhYw?oc=5",
+      "published": "Mon, 16 Feb 2026 01:05:28 GMT",
+      "source": "news.cgtn.com",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Report: Trump told Netanyahu he would support Israeli strike on Iran's missile program - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNVAxOGRWZUFFdHJvbnBFdzZ1bTM2YnhJZnJudzA0MXNzbGNubFFhc3liWExJcm15XzFXbFpPMmoyc0tkbXVJM1MwZlNCeUhEaHRaYlN3?oc=5",
+      "published": "Sun, 15 Feb 2026 17:34:51 GMT",
+      "source": "ynetnews",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Taliban Spokesman Says Afghanistan Ready to Support Iran If U.S. Attacks, Urges Peace - KabulNow",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVNQWHgwN3BMZGdwbjBaVnRueF9fbzRoQlpMWldTT2tQUVZsYWlaVFE4QVIzUWQyMnZCVVB1bEZvRXFtUkY2U3FldjNaWkUzd2lfbGRYYWJoMW5qNm9kcG1KTko1ZVc4VDJMUTNuRmNMbkxuWk4zX2t2dkVYYTN0djNCUGxER0dMS1dDQWhJeWQwSTUwUFJOX3V0dGUwTHpzWlBYLW9zY2NBV2xTYkF5cGJhYw?oc=5",
+      "published": "Sun, 15 Feb 2026 19:24:58 GMT",
+      "source": "kabulnow",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Trump might back strikes on Iran's ballistic program - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RWVkta0VrRjJyMWdRd1h5UnI1VGJ5V0dsaHNXNzI0NGgzRm9fQTZGY3IyWmEzZnhSQlJTZVlmVWtMUk9ObVo0b1JreVRoVFhRX3o0Vw?oc=5",
+      "published": "Mon, 16 Feb 2026 05:00:00 GMT",
+      "source": "azernews",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Iraqi media: if the U.S. strikes Iran, the Azerbaijani resistance will respond - MEMRI | Middle East Media Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnV5RVVHWDJyazRzSU5XcDFrY3B1TDVxcHNRV1ZTUi1HRm9IY2V1WlNyTWdhWTBoMkwtMnB6VDdWV3g0NFE4cXBQT2J6VVJrbmNLZ1hsWkxyOWo0TkthUmpnMTIzV3UzdHBXeGpESHNOMEViMEFxYk1VWU1YMFZHWGFPSUkzeFFyeExPQzFYdWdGOGlfXzJXNmQyOGJYekJVTlZ1cGxKS2lUcENUWGJCWndTUUFEUHBVWmc?oc=5",
+      "published": "Sun, 15 Feb 2026 20:01:15 GMT",
+      "source": "memri | middle east media research institute",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Trump told Netanyahu he would support Israeli strikes on Iran - Media - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR0t3REVPbjdtN0lmQ1V3RHc4ZVJncld0c0x4OERIQ3pMMHhZeV90Y0FCNld3X25QNWJMLXR4SUVsNjRNMy1GMW1fT0JaZmo2dEhtRXJEVUlWb0hiY2xvZkpOeXhWZkh5bllLamV6Wk1mQjlNeVRvU0xob3ZIZFdLX0JjclZwS2FkU3RQd0x6NllFODlN0gGTAUFVX3lxTFBTVEdWdHJMUWUxUlhNRlMtR3Ntd0h1cllDa3FUR2JKR2Y0TE5hM0FnS00xZkpzdVJ2N0RDVWp0bnQxQW56N1pRamtLM1U2QWJYNkFScDdsZVI3UlI2NXNBOTNKTF9XU1lVNHV4UTkyNFo1QTV3N1REeXliSFdfU3oyTHdCelVQR3IzbGZxNm9FZWRfTQ?oc=5",
+      "published": "Sun, 15 Feb 2026 18:17:25 GMT",
+      "source": "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u0438 (\u0443\u043d\u043d)",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Iran\u2019s state media reports foreign minister will attend indirect talks with the U.S. - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFE3Ynh4c29PNVltMFZzYm5menZVaUl1NzQ5N3ljMmhxaHNXVEdMX1Z3cEdmOXdIME1GXzloM0E4QW5NWWVnZWRnU3hKaDlrVWZTU184VExWbnF1Y0xTNGlQNnpjb3JKUkl4V3A2aV91c1E0Z2lVdFJaTXIyZVlWbVByU196RTBTU05pajBZVWYyeklXWlRZa0U2Nk1TUGxycWJscy1DZW41ekFBbndWU1NTV3BqSnBM?oc=5",
+      "published": "Sun, 15 Feb 2026 19:14:53 GMT",
+      "source": "pbs",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "US, Iranian Officials Set For New Negotiations Aimed At Preventing War - Radio Free Europe/Radio Liberty",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HenkxLXZQZkRqMjhSTjZFNDFEM05QRHk1eUdROUZoVWxBaF9BelY4Z3ZvYWkzYjBiNWtwZEtFUHR4WmZvWWhRYzdHYV9JSzVtbjcyQWJLUmZmbFRSY2lydWlRODVINEpBUkVwTktrTW9FVXlJd2t1R2hGd0Fxd9IBgAFBVV95cUxQcWdpVEM1VGJWZmVLUVE4dkZVdklGYWk2SjRMc0hYc0djampEQWxza3o0TnJmekU4djcza2hwSFNrUzZELUNycWhySEU4SVVsT0hYc0hBTDdnWF81cnl3ODczelQ4T2VmNGkyMFNFSUlmbDFNdE9xRm5mZ3BVZVVNYg?oc=5",
+      "published": "Mon, 16 Feb 2026 13:41:56 GMT",
+      "source": "radio free europe/radio liberty",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Will the US and Israel bomb Iran? - Stop the War",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3cmpkaGlGdWRzZFdnRUF0RmxDUUZBQ0hmRExLdzdIbGhkR1hCSlc1YTFVYlVRUFIycXNIS0tFeGcyNmNpMWgxSkJlbTlCd0FweXU5YnhHOUlpRm9mb1VwcHEwVVhPR1FWRURVY0xaQUlZbE9QcWR3?oc=5",
+      "published": "Mon, 16 Feb 2026 12:29:15 GMT",
+      "source": "stop the war",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Afghan Taliban could support Tehran if Washington bombs Iran - The New Arab",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRk43XzBZTVhGUGxoWWxHUHkzTzZPS3lVWGNxRFEzZDNFZlN0eTZmWlZUaEZaR3JhcVpIS1FnNHNvN3M2UldxWVl3aUJUU25ISUY2VjEyWEFFajM1OE9QdVRfeUxHRHlKdlVWZzRwR3hkSXh3UVRXaFlDYTY5UHBjT3dBWm45R0p1WXBWelI2S3dVbzDSAZgBQVVfeXFMTU8ta2M0TXp6QVhsWkhBMzdxNFVNNV96bHpPdmIyUzNvZVRaY2VGblFzYmpUUzBTMUlTRTZBbDQ5MGNReEhKRXcwcWpsTUZ1SURIMjJOWHdDWnVtd1l2dU00QTRCUmU2ejdVME1wUDlIenk3eWE0S05SeHppb0pfOXBBSFgyU3Utd1JEb3ZOSTFoRUZiSjk2MmE?oc=5",
+      "published": "Mon, 16 Feb 2026 15:31:46 GMT",
+      "source": "the new arab",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Report: Trump Told Netanyahu He Would Support Israeli Attack on Iran's Missile Program - Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbFpTU2pLNkJaYm5uc01YQUJuTFQ4WGEzUklucEczZlh2TVpYQzJmeUE0eG1MN0ZaT21EVG96NG1wYnp4ejJLSUpYV1ZRa2lZNTNNOW9kb0lmSlRhbzdBQ0JrcWxQX05vdUJsalFYQVdYbV96NGRNX2djQWlicWkyMEFjQUgtRWNNc0Fyb3VCeXU0Z21Mb0lXOFdhOGZhS3FMR2s0bXV4d0lVOXFCelg3Qll1OEZQNEswUnlRZFJiTzhQZkZxTEIxQkdKa0dzRVN6ak8weEVGN1pTM0JGbVpsT081bUoxRFhrdWJPZ0xBU3R3UEdnZUFSRzVCLXZZOXhwTVVsTlhPRUY4bUI4R1BJODl3?oc=5",
+      "published": "Sun, 15 Feb 2026 19:13:00 GMT",
+      "source": "haaretz",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Taliban Says It Would Support Iran if US Launches Attack - Muslim Mirror",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcU5uRndmdmpnXzhtX1ZyTjR5SmZ4bExvb2pGNTh1cklYLWs3b1A2NWZzZnJtQ28xWHcyNnN1TlJNTUczMTFXMHpyMVRhenRGZEp3Y0NKbVgxOHc0bWR0YS1OejZobm11Z25pVkNRNFY4RFBFMXVjb2VuZ2RmZkdPeXJJRWwxcWhlcVE?oc=5",
+      "published": "Sun, 15 Feb 2026 19:35:44 GMT",
+      "source": "muslim mirror",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Media: US to support Israeli strikes on Iranian missile facilities - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u043e\u0432\u0438\u043d\u0438",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDE4U1NuUXlnRmhKcTNSOGdGbDZXWHQ3Q3UzTk9XSzVqLWxLcWpoVFNvMVpOczRReGppUS1ZSWhFbG5rcGFtR0xTdzFEa3NCaHV3M0pjaG1ZMUxWWGE0MmZEaDFQSnZPLXJaN0lWcGRNRHlwREVlRUQ5YU9JQVFURkdXaU9nWGZDcTBvTjJFVnZCVDJXRWZydDNLSkQ0N2VERnlpV9IBqgFBVV95cUxNTjg3Z3hEMk1JYnl5SHJ4VHpSYm9OTmpxWHVnWDBla1U4VUhiZHdwNkd5Tkl1LTlPRXFVak80Z1hpV0V1ZGRzYlVnVGhzRmE0Y0tnbERVS2xkRVNhM0V6U0x4RmZBMUUtSzdKVGh2X0JaalZKVGluZHBlczA1aWF5bTUxY3ZKcG5kWWRmWFRWNzNiSFZsbV8xNjlMYXRfMWhBQkdCZ2RqNDNEUQ?oc=5",
+      "published": "Mon, 16 Feb 2026 13:37:00 GMT",
+      "source": "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043d\u043e\u0432\u0438\u043d\u0438",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "If talks fail: Trump would back Israeli strikes against Iran, says report - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRHVIc1VaM2EybnVsZXkwUGN3TENTVmNpLWsycHI0dkVVWk8zNGNVSU5jR25hNFZ1VnBSNUYzLXNGQTNvMkN3VkJsUURlaklqVzktT3BMUUNtVHBfaG9DcEJ1Mi0wcmptMEdfbDFPQlhoWGtkMVY2RmxXM1YwWE5wbWxvTGpoZk1pd0JLMVlDWFRybnlQM1IzNl9GU3R5VlFiQkMwUWNyNjNnc196T01nZGdfOTZMV29xamg2cjEzOE9zWkY3T1BZWWl3?oc=5",
+      "published": "Mon, 16 Feb 2026 02:07:27 GMT",
+      "source": "gulf news",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "U.S. officials: Pentagon preparing for potential aggression on Iran - mronline.org",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmVxYzA2OWgwQWhHYjU3Q0lRa0NfaWpQakJyanpUXzJDZWNHaldYbVlta1NxaXIwOHdJcGhiOW5LeE1XU1BCeWxKREF0V2xVT29FR2tBVnE5SWlMM0U1YkpZN3ZxcXhDaGNHazllY05KQWV6bkRHQjdwenh0aW1ZOWdYVTRLT2pmVjYyVEk1NmlmeGQtaHN4dW5oTUtxWGM?oc=5",
+      "published": "Mon, 16 Feb 2026 13:00:43 GMT",
+      "source": "mronline.org",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Donald Trump Given Four Iran Demands by Israel's Netanyahu - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRmwySW94RGZ6S250c21DNndKSUlQM2kzb0xkeVZZZ1hXMkc4QVlxYjZRVEpoUF9lZzBKVm9DWGpqeEhhazN1NkV6clRPaTFJdGltdkxRdVhkRjBmdEJjYjF0SldKd3g1cjg0Z2pUWTEtaXJLLW0wZmoxMHRPZTdEYTU2clpTc0FPQl9n?oc=5",
+      "published": "Mon, 16 Feb 2026 08:48:00 GMT",
+      "source": "newsweek",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Can US bunker busters end Iran's nuclear program? - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NaTFxcGhUX1c0Mm5LaFJqTHRxRHV6TzJZNVV3RHluSkk1TXZ0dWd1SnQtYVpsT1hVVURaUl9wX0tWZ014c1ZyMFBqc1pHN0kzbE1BSFFWbU5YbWZWQmU0?oc=5",
+      "published": "Mon, 16 Feb 2026 15:32:03 GMT",
+      "source": "the jerusalem post",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "US Iran tensions live updates: Tehran conducts military drill in Strait of Hormuz to test readiness amid threats | World News - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcS1aWVNMWG05dDU0MS14c3RtVEpFZjN4aTByTEhEYjhMNFdlbVQ5OFZwR1Vxd3FrLUhjSmZacWlzT1hTQUtjbVpVSG9QR1hZbVk3dEd0UlZMb1JoVFJOMWtBNTRhVWZKQUJfRU4xRWxEQmZ3WFQ5S01PcFJUOVhVaU1PSlJ6c19JTG85b0NZRldveGRaXy1JR0VUYXhISDNBTWFrLXU5VjN1STNJSzFfY1Mwb1g5RG5UdVpaN3l6ano4MXR2V2VKNlhOQnNlODlMNmJLcE5HSThQd1c0em5tWWYybFo4Zi0wVlJxekUzNFHSAfYBQVVfeXFMUC1OWk9aanVmQUZpRUZscjhxclU5b1FhNG44Z0NOaF9pQk1nQkctX1hud2hhOUhmZ3NKR2U0MGtxcjFBdXZsRDlvMExmUk1VY21KbGVIWm94ZTFuYjc5djVIZHVwdTFkbTJzUDBWSmlyU01HX01xSTh3RExYU3NzT043dk5mcG15a1dMQ292Sm1jTzNpYTd5amNiNXV6dDNpZ3hMeWlJbmZnYk1BZnpHdmc0c2NwLTZzMzdVbFViWUlrM1BNVy1Bd0tMOGtXM2k4RlNsckd3OVNaaVNnUWljTTdOTVFxN2Z5alVDQTg4WFY3WTB4dktn?oc=5",
+      "published": "Mon, 16 Feb 2026 15:14:46 GMT",
+      "source": "hindustan times",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Iran must abandon enriched uranium and not produce more, Netanyahu says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HNTcwRUJBcG4tOUJhWUx3SUtDSHhIRzVmWDhoVTZjRmxSRm5WNFdWaTdGLW1tekpyVkNKQUlkWTA5dVUteGZsay1BU2ZwaTRsTnZ0VUhUWG1rUQ?oc=5",
+      "published": "Mon, 16 Feb 2026 04:26:53 GMT",
+      "source": "bbc",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": true,
+      "net_score": 0.0
+    },
+    {
+      "title": "Trump would back Israeli strikes on Iran's missile program if U.S.-Iran talks fail: report - Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnSENESWh1aExrQlowZDQ1Y2J3dVhUYllEeG04cWdVYTVrWlZvdHc0NDBtR2ZJNThsaDBXcHRKWTc4Sl9zdTRUcm00dG41dmJZUHd4MWJYanYtS25PZXdjY3A0Nm1rb3pMRkFVdTJTOF9yajBKTDFYOGFTc2Q?oc=5",
+      "published": "Sun, 15 Feb 2026 21:49:15 GMT",
+      "source": "xinhua",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Afghans Would Help Iran If US Attacks, Says Taliban - \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16RENkMUNEVFdjV3p5RkZ1SHRnWWZqVlRpR05lN012TGNzeVQ4Tm51VWREZ2JvN0FWanlVdFlld003S1BtRWtTVjRnUG0tNm8?oc=5",
+      "published": "Mon, 16 Feb 2026 08:35:18 GMT",
+      "source": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Netanyahu says all enriched uranium 'has to leave Iran' - SpaceWar.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdkFXRlItRy1EcnRfQ21PcGtyX2JuMFFnT09HVXRuTERLOWRscmU2TlBheEZpMzZaaXJWWWZteDR5S0g4NzBJZ2h4M3F2cS1NSjVRdFVlY1ZYdjZZR1AyLVZ0bmQ4dUs0RUp2TERrTk1rMmpWUjRJbjBRTm9LbVVsVGxjcW9fVU1sNUMtODhhalo2YXVUVHVLR0J4QQ?oc=5",
+      "published": "Mon, 16 Feb 2026 03:28:48 GMT",
+      "source": "spacewar.com",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Netanyahu says Iran deal must address missiles, cites 300 km cap - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvbU4tcmZjZVpNQ0h0Q0xQLTlBaWhMS0NJSEttZ0Rqa0RFRnFvdXdEMVlIcnNIQjNYZjR3Zmc2bThEc1NNUkJDUmM5MXNoYUM1aFE?oc=5",
+      "published": "Sun, 15 Feb 2026 17:01:30 GMT",
+      "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Iran\u2019s FM Araghchi meets IAEA chief Grossi ahead of Geneva talks - AnewZ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTF9tMlNyUlJNRU0xNXZLLU1vMFEtMW1oRG1veW01b2IxX3pNX3d5N2dGVGx5TndTNHUtV1F0b193VXVqQnRzbV9BeWdqbm00MkN0RWV1a2dyak03TXFvUlkzalZvV3ZjbHM1dlVkbWpkUXFtNEJrSlNINGo0RlJWTDMzcS1pY093cFNRbndLU2lNelNEc3pDN2NCeXFrQmM?oc=5",
+      "published": "Mon, 16 Feb 2026 08:07:00 GMT",
+      "source": "anewz",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Iran Foreign Minister in Geneva for second round of U.S. talks - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb3lXWmItTHRqLVNDT3l3V1phRGpqOXplTVplbXNYUldUMWtXdlZ6elYtMkQ1bW5CU2c5UFdaNFE4U0x2ZEQ1Q3dYU242ZEM2eVhOZTNKVlVCWWJSd29fQnV2aHFZaU13LWR6UWdTYUFPZ3pYakRVbVk4czZKVHBrX1hMWjNrVmtFZ1ljajBoQUFGaHlLbjBGdE5YNDlXalJheUIzUFhIcjBuRkVuNFAxSmN6MnU5Wm55SFpYQmxhNDnSAccBQVVfeXFMTjZMQ1l4c3dHd1gwamtIR3ZkU21DWERkY0IyQmN2aTQ1TWFhSVlONkduWUswb0N0ZzZodVItN21nRnUwdk1hb0tfSEpHc3Q3VmpVNjNpUE54TG55TzU1ZDltVVBQdndTbWp5bGFIaloycmZEX2REbmx3cHhtNDltcXpkbWdsV0pzUk91RmRVazJ4MHhNNElXd1lYa0lFa3pTTXExeVFCbGpTMEpXN0FaVURULTZzQkFiTjJqUnNXSVdWZ0JOOXVnNA?oc=5",
+      "published": "Mon, 16 Feb 2026 07:14:00 GMT",
+      "source": "the hindu",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Images of the USS Abraham Lincoln carrier strike group sailing and flying in formation were released on Sunday (February 15) as the U.S. military prepares for the possibility of sustained, weeks-long operations against Iran if President Donald Trump orders an - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNk42bWZUOE40RUhrRE1IZHdBNVZIb2tCeDFFdEFXUnlWQV90RE13NERqYlRfSnM5Z1dWTE1PRTUzZWpDS2xnMmZOTnZXT2VPLUdhNTZHWnZFRGF5d3Z2ekJ6TWhBbHM4dFl6UWY3cElzRm1yWFV6bk9xdHJ2ZktBUGJ1eFRCMXFpUFpiSWJhXzlnd01saXFYVy1hOV9fS2xLZ2JPclRhMzJ1UnpJMFRzbXNabm9ETjZHRkQzUTZMY3IzcXp5dEU1OTBReVJyenlnY05VOGFCVQ?oc=5",
+      "published": "Mon, 16 Feb 2026 00:53:03 GMT",
+      "source": "facebook.com",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Increased US military presence in Middle East aims to defend forces: Rubio - Middle East Monitor",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbnRxOU5FQ1dXRmt0OGlVZTlOd0VXR0h5RUI2Z18wNzI2ZUpmbG43VENjaC1udlRCd1ZOQnJSck5JcjJzck5KX0kyOWNRdFBIR3RyejIyYUt1ZUpFTVRYZ2RlY0dXZGxuYkVJRVhxOVBTVFpiSlpBMmJ6X3pVVVhBQkhQZDJ4dy1VZG9DSWRBcTZ5Sm9ESi13YUJkbGhpdHRrdHZwWTJycmhUckM4al9fcmZVY25RcHBp0gG-AUFVX3lxTE5TYUdCZEFLZE84d2tnemI0TUtweVlfVkl4R3BoNGpKQ1FWX0Q0MFQ2dFY5ekljWVI4akRKeXkwbHpTUFFWWldycUNISXlaVmZSYXY0eUc4MTJZNnZKblJtQkZUQ0g5dW1IQ2Itb21aSmxBN1lObUsxejM2RC1LM2Y0UnZGZmY2QVBLMXVSVHJtOGprcW5vbGtlWEdJbWh1TWJBNG1veXZnRmt5WHA0ZTQwX2dSMkJjbTZCWEJJelE?oc=5",
+      "published": "Sun, 15 Feb 2026 16:08:00 GMT",
+      "source": "middle east monitor",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    },
+    {
+      "title": "Israel\u2019s Netanyahu sets key conditions for any US deal with Iran - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczJYbTVudlg1WEJUeXhsWUFDTnA5ay1ONjdBczJWd1lyT3BUeUNPNFJSUUpYRWlxZzN0NmVGalI2RmhUTnJsdkNCREdsR2hNS2o4UTlkT2RMNFpLbEppVWx3NEVvc0dIUVo2YUZDU3hOYndOZVlPNWZrZHFKeW11RUl0ZHlxclFBdS1hc1RlMjJmZWRZLWt5Yk9YenVlU3c?oc=5",
+      "published": "Sun, 15 Feb 2026 19:18:45 GMT",
+      "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+      "positive_score": 0,
+      "negative_score": 0,
+      "is_credible": false,
+      "net_score": 0.0
+    }
+  ]
+}

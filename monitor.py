@@ -301,6 +301,38 @@ def evaluate(scored_articles: list[dict]) -> dict:
 
 
 # ---------------------------------------------------------------------------
+# File Output
+# ---------------------------------------------------------------------------
+
+LOGS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "logs")
+
+
+def save_result(result: dict):
+    """Save the full result (including all articles) to a timestamped JSON file."""
+    os.makedirs(LOGS_DIR, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    filename = f"scan_{timestamp}.json"
+    filepath = os.path.join(LOGS_DIR, filename)
+
+    output = {
+        "ran_at": datetime.now(timezone.utc).isoformat(),
+        "result": result["result"],
+        "confidence": result["confidence"],
+        "reason": result["reason"],
+        "total_scanned": result.get("total_scanned", 0),
+        "total_recent": result.get("total_recent", 0),
+        "total_with_signal": len([a for a in result.get("all_articles", []) if a["net_score"] > 0]),
+        "articles": result.get("all_articles", []),
+    }
+
+    with open(filepath, "w") as f:
+        json.dump(output, f, indent=2, default=str)
+
+    log.info(f"Results saved to {filepath}")
+    return filepath
+
+
+# ---------------------------------------------------------------------------
 # Main Monitor Loop
 # ---------------------------------------------------------------------------
 
@@ -333,7 +365,11 @@ def check_once(use_newsdata: bool = True) -> dict:
             scored.append({**article, **score})
         scored.sort(key=lambda x: x["net_score"], reverse=True)
 
-    return evaluate(scored)
+    result = evaluate(scored)
+    result["all_articles"] = scored
+    result["total_scanned"] = len(rss_articles)
+    result["total_recent"] = len(recent_articles)
+    return result
 
 
 def monitor(interval_seconds: int = 300, use_newsdata: bool = True):
@@ -342,8 +378,10 @@ def monitor(interval_seconds: int = 300, use_newsdata: bool = True):
     while True:
         try:
             result = check_once(use_newsdata=use_newsdata)
+            save_result(result)
             timestamp = datetime.now(timezone.utc).isoformat()
-            print(json.dumps({"timestamp": timestamp, **result}, indent=2))
+            summary = {k: v for k, v in result.items() if k not in ("all_articles",)}
+            print(json.dumps({"timestamp": timestamp, **summary}, indent=2))
 
             if result["result"]:
                 log.warning("*** ALERT: US STRIKE ON IRAN DETECTED ***")
@@ -374,6 +412,9 @@ if __name__ == "__main__":
 
     if args.once:
         result = check_once(use_newsdata=not args.no_newsdata)
-        print(json.dumps(result, indent=2))
+        filepath = save_result(result)
+        summary = {k: v for k, v in result.items() if k not in ("all_articles",)}
+        print(json.dumps(summary, indent=2))
+        print(f"\nFull results with all articles saved to: {filepath}")
     else:
         monitor(interval_seconds=args.interval, use_newsdata=not args.no_newsdata)
